@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.bleu{
+    color: blue;
+}
+.image_size{
+    width:100vh ;
+}
+.monY{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(63, 103, 129);
+}
+.whole_height{
+    height: 100vh;
+}
+.semi_whole_height{
+    height: 30vh;
+}
+.marg-sp{
+    margin-top: 85px;
+}
+.card{
+    transition:all .5s;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+.bi{
+    font-size: 25px;
+}
